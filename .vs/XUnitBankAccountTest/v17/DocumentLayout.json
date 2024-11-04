@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|c:\\users\\asus\\source\\repos\\xunitbankaccounttest\\xunitbankaccounttest\\tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|solutionrelative:xunitbankaccounttest\\tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|c:\\users\\asus\\source\\repos\\xunitbankaccounttest\\xunitbankaccounttest\\controllers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|solutionrelative:xunitbankaccounttest\\controllers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|c:\\users\\asus\\source\\repos\\xunitbankaccounttest\\xunitbankaccounttest\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B945B1-1DB5-4908-9634-04531E6A17E5}|XUnitBankAccountTest\\XUnitBankAccountTest.csproj|solutionrelative:xunitbankaccounttest\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Tests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "XUnitBankAccountTest\\Tests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Tests\\BankAccountTests.cs",
+              "RelativeToolTip": "XUnitBankAccountTest\\Tests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:36:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "XUnitBankAccountTest\\Exceptions\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "XUnitBankAccountTest\\Exceptions\\InsufficientBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:47:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Controllers\\AccountManager.cs",
+              "RelativeDocumentMoniker": "XUnitBankAccountTest\\Controllers\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\XUnitBankAccountTest\\XUnitBankAccountTest\\Controllers\\AccountManager.cs",
+              "RelativeToolTip": "XUnitBankAccountTest\\Controllers\\AccountManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:40:18.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
